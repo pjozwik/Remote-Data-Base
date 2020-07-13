@@ -1,0 +1,15 @@
+E:\Visual C#\WBD_GUI\bin\Debug\WBD_GUI.exe.config
+E:\Visual C#\WBD_GUI\bin\Debug\WBD_GUI.exe
+E:\Visual C#\WBD_GUI\bin\Debug\WBD_GUI.pdb
+E:\Visual C#\WBD_GUI\obj\Debug\WBD_GUI.csprojAssemblyReference.cache
+E:\Visual C#\WBD_GUI\obj\Debug\WBD_GUI.Properties.Resources.resources
+E:\Visual C#\WBD_GUI\obj\Debug\WBD_GUI.csproj.GenerateResource.cache
+E:\Visual C#\WBD_GUI\obj\Debug\WBD_GUI.exe
+E:\Visual C#\WBD_GUI\obj\Debug\WBD_GUI.pdb
+E:\Visual C#\WBD_GUI\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Visual C#\WBD_GUI\obj\Debug\WBD_GUI.csproj.CopyComplete
+E:\Visual C#\WBD_GUI\obj\Debug\WBD_GUI.Form1.resources
+E:\Visual C#\WBD_GUI\bin\Debug\Oracle.Web.dll
+E:\Visual C#\WBD_GUI\obj\Debug\WBD_GUI.Form2.resources
+E:\Visual C#\WBD_GUI\obj\Debug\WBD_GUI.Form3.resources
+E:\Visual C#\WBD_GUI\obj\Debug\WBD_GUI.Form4.resources
